@@ -1,0 +1,11 @@
+c:\__Repos\aclick\bin\Debug\netcoreapp3.1\aclick.exe
+C:\__Repos\aclick\bin\Debug\netcoreapp3.1\aclick.deps.json
+C:\__Repos\aclick\bin\Debug\netcoreapp3.1\aclick.runtimeconfig.json
+C:\__Repos\aclick\bin\Debug\netcoreapp3.1\aclick.runtimeconfig.dev.json
+c:\__Repos\aclick\bin\Debug\netcoreapp3.1\aclick.dll
+c:\__Repos\aclick\bin\Debug\netcoreapp3.1\aclick.pdb
+c:\__Repos\aclick\obj\Debug\netcoreapp3.1\aclick.csprojAssemblyReference.cache
+c:\__Repos\aclick\obj\Debug\netcoreapp3.1\aclick.AssemblyInfoInputs.cache
+c:\__Repos\aclick\obj\Debug\netcoreapp3.1\aclick.AssemblyInfo.cs
+c:\__Repos\aclick\obj\Debug\netcoreapp3.1\aclick.dll
+c:\__Repos\aclick\obj\Debug\netcoreapp3.1\aclick.pdb
